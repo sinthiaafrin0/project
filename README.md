@@ -20,7 +20,6 @@ Ensure you have the following installed:
 #### Step 1: Create a Virtual Environment
 ```bash
 python -m venv venv
-source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate    # Windows
 ```
 #### Step 2: Install Dependencies
